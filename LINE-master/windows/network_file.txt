@@ -1,0 +1,30 @@
+HTML Videos:
+HTML Fundamentals -- 2h 13mins
+HTML5 Audio, Video and WebRTC -- 5h 10mins
+HTML5 Advanced Topics -- 2h 45min
+
+Javascript Videos:
+Javascript getting started -- 2h 46min
+Javascript Object and Prototypes -- 48min
+Advanced Techniques in Javascript and jQuery -- 3h 16min
+
+Angular:
+Angular: Getting started -- 5h 40min
+Angular: Best Practices -- 1h 41min
+Angular: Routing -- 4h 47min
+Angular: Reactive Forms -- 3h 54min
+Angular: HTTP Communication -- 2h 27min
+Angular: Services -- 2h 30min
+
+Spring:
+Spring Fundamentals -- 2h 55min
+Spring Boot: Efficient Development, Configuration and Development -- 2h 24min
+Creating your Spring Boot Application -- 2h 35min
+Spring security Fundamentals -- 4h 8min
+Introduction to Spring MVC -- 3h 46min
+Building Web App using spring MVC, Hibernate, Bootstrap and REST services -- 7h 2min
+Spring with JPA and Hibernate -- 4h 57min
+MAVEN fundamentals -- 2h 30min
+
+Hibernate
+Introduction to Hibernate -- 3h 58min
